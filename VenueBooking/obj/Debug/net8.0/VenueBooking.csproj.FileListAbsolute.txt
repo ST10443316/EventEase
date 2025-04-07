@@ -1,0 +1,8 @@
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.csproj.AssemblyReference.cache
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.AssemblyInfoInputs.cache
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.AssemblyInfo.cs
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.csproj.CoreCompileInputs.cache
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.MvcApplicationPartsAssemblyInfo.cache
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.RazorAssemblyInfo.cache
+/Users/omphemetsevincent/VenueBooking/obj/Debug/net8.0/VenueBooking.RazorAssemblyInfo.cs
